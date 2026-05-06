@@ -1,0 +1,2 @@
+# CarreiraTechIA
+Exercícios do curso
